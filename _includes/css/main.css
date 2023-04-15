@@ -183,6 +183,7 @@ section h2 {
 section.success {
     color: #fff;
     background: #{{ site.color.primary }};
+    margin: 20px;
 }
 
 @media(max-width:767px) {
