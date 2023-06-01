@@ -1,10 +1,10 @@
 # Site settings
 title: Dr. Mario Galante
 email: mgalantephys@gmail.com
-url: https://mgalantephys.github.io/
+url: https://mgalantephys.github.io
 description: "Personal website of Dr. Mario Galante"
 keywords: "research, physics, spin transport, quantum many-body, van der Waals"
-skills: "Theoretical and computational physicist<br>contact: mgalantePhys@gmail.com"
+skills: "Theoretical and computational physicist<br>contact: mgalantephys@gmail.com"
 #"Welcome to my personal website! I am a researcher in theoretical and computational physics. My interests are in quantum many-body effects, dynamics and spin transport in condensed matter and molecular systems. "
 meta_author: Dr. Mario Galante
 
@@ -26,15 +26,15 @@ bing_verify:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 183d99 #80B3FF
+  primary: 234a86 #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Dr. Mario Galante
+  location: Institutional address
   social: Around the Web
   credits: Credits
 
@@ -42,8 +42,8 @@ footer:
 social:
   - title: twitter
     url: https://twitter.com/mgalantephys
-  - title: facebook
-    url:
+  - title: linkedin
+    url: https://www.linkedin.com/in/mario-galante-b95667153
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
@@ -53,11 +53,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 162a Avenue de la Faiencerie, L-1511, Luxembourg (LU)
+  - line: "email: mario.galante@uni.lu"
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Created with Jekyll, adapted from Freelancer template.'
 
 # Build settings
 markdown: kramdown
@@ -70,3 +70,4 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+

@@ -4,8 +4,14 @@ modal-id: 1
 date: 2014-07-18
 img: asd.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: I contributed to the development of atomistic spin models tailored to reproduce the magnetic properties of ferromagnetic and antiferromagnetic materials.
+title: Atomistic spin dynamics
 ---
+Magnetic properties underpin a multitude of state-of-the-art technologies ranging from sensors to memory storage devices. At the nanoscale, the atomic species and arrangement can greatly affect the overall magnetization dynamics. Atomistic spin dynamics (ASD) employs Heisenberg-like Hamiltonians tailored to reproduce the magnetic properties of a given material. The possibility of estimating the required parameters from DFT effectively enables to bridge quantum mechanical information to lengths up to tens of nanometers.
+<h4 style='text-transform: none;'>Current-driven spin dynamics</h4>
+The ASD Hamiltonian can also be adopted to include torques calculated from first principles. Extensive details on how the mapping is performed and example calculations can be found <a href="http://www.tara.tcd.ie/handle/2262/91664">here</a>.
+<h4 style='text-transform: none;'>Longitudinal spin fluctuations</h4>
+Although most materials can be represented through an Heisenberg Hamiltonian, in many cases the need of many parameters can be a strong deterrent. For example, magnetic moments at Pt sites in L1<sub>0</sub>FePt is heavily dependent on the orientation of moments at Fe sites. In principle, **CHECK** is needed. To overcome this difficulty we extended the ASD model to accomodate for dynamical spin length variations. This enables <b>COMPLETE</b>.
+
+**Main collaborators:** Dr. Matthew Ellis (University of Sheffield)
+
+<h5 style='text-transform: none;'>References</h5>
