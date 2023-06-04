@@ -124,10 +124,44 @@ title: Short Curriculum Vitae
     </tr>
 </table>
 
-<div>
+<h3 style='text-transform:none;'>Softwares and programming languages</h3>
 
-<br>
-<h3 style='text-transform: none;'> Active collaborations </h3>
+<table>
+    <tr>
+        <td class='cv-date'>
+            programming
+        </td>
+        <td class='cv-entry'>
+            C, Fortran, Python (numpy, ase), git
+        </td>
+    </tr>
+    <tr>
+            <td class='cv-date'>
+            Unix
+        </td>
+        <td class='cv-entry'>
+            bash, vim, awk, sed, queueing systems (slurm, pbs)
+        </td>
+    </tr>
+    <tr>
+        <td class='cv-date'>
+            electronic structure codes
+        </td>
+        <td class='cv-entry'>
+            Smeagol, Siesta, Aims, DFTB+
+        </td>
+    </tr>
+    <tr>
+        <td class='cv-date'>
+            visualization softwares
+        </td>
+        <td class='cv-entry'>
+            vmd, vesta, xcrysden
+        </td>
+    </tr>
+</table>
+
+<h3 style='text-transform: none;'>Active collaborations </h3>
 
 <ul style="line-height: 2; margin-left: 75px;font-size:24;">
 <li> Prof. Alessandro Lunghi (Trinity College Dublin, IE) </li>

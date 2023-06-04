@@ -6,11 +6,12 @@ img: asd.png
 alt: image-alt
 title: Atomistic spin dynamics
 ---
-Magnetic properties underpin a multitude of state-of-the-art technologies ranging from sensors to memory storage devices. At the nanoscale, the atomic species and arrangement can greatly affect the overall magnetization dynamics. Atomistic spin dynamics (ASD) employs Heisenberg-like Hamiltonians tailored to reproduce the magnetic properties of a given material. The possibility of estimating the required parameters from DFT effectively enables to bridge quantum mechanical information to lengths up to tens of nanometers.
+ Magnetic properties serve as the foundation for various cutting-edge technologies, encompassing a wide range from sensors to memory storage devices. At the nanoscale, the arrangement and characteristics of atomic species have a profound impact on the overall dynamics of magnetization. Atomistic spin dynamics (ASD) employs Heisenberg-like Hamiltonians defined upon parameters tailored to reproduce the magnetic properties of a given material. The latter can be estimated with first principles methods such as DFT, effectively enabling to bridge quantum mechanical information to lengths up to tens of nanometers.
+
 <h4 style='text-transform: none;'>Current-driven spin dynamics</h4>
-The ASD Hamiltonian can also be adopted to include torques calculated from first principles. Extensive details on how the mapping is performed and example calculations can be found <a href="http://www.tara.tcd.ie/handle/2262/91664">here</a>.
+The ASD Hamiltonian can be extended to include the interaction between spins and external drivings, such as spin-polarized currents. Quantum transport calculations can then be used to estimate effective torques acting on atomic spins, therefore completing a multi-scale picture of current-driven spin dynamics. Extensive details on the theory and applications of such framework be found <a href="http://www.tara.tcd.ie/handle/2262/91664">here</a>.
 <h4 style='text-transform: none;'>Longitudinal spin fluctuations</h4>
-Although most materials can be represented through an Heisenberg Hamiltonian, in many cases the need of many parameters can be a strong deterrent. For example, magnetic moments at Pt sites in L1<sub>0</sub>FePt is heavily dependent on the orientation of moments at Fe sites. In principle, **CHECK** is needed. To overcome this difficulty we extended the ASD model to accomodate for dynamical spin length variations. This enables <b>COMPLETE</b>.
+Although most materials can be represented through an Heisenberg Hamiltonian, in many cases the need of many parameters can be a strong deterrent. For example, magnetic moments at Pt sites in L1<sub>0</sub>FePt is heavily dependent on the orientation of moments at Fe sites. This can be solved rigorously by introducing higher order in the magnetic anisotropy parameter, which can be computationally expensive. To overcome this complication we extended the ASD model to accomodate for dynamical spin length variations. HOW IT WORKS
 
 **Main collaborators:** Dr. Matthew Ellis (University of Sheffield)
 
