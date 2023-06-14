@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2023-06-14T16:04:18+02:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">Dr. Mario Galante</title>
+  
+
+  
+    <subtitle>Personal website of Dr. Mario Galante</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Coarse graining in quantum mechanics</title>
+      <link href="http://localhost:4000/posts/2023/05/31/model.html" rel="alternate" type="text/html" title="Coarse graining in quantum mechanics" />
+      <published>2023-05-31T00:00:00+02:00</published>
+      <updated>2023-05-31T00:00:00+02:00</updated>
+      <id>http://localhost:4000/posts/2023/05/31/model</id>
+      <content type="html" xml:base="http://localhost:4000/posts/2023/05/31/model.html">&lt;p&gt;Quantum mechanics is at the fundaments of any macroscopic observable. I like understanding how to single out the key components of the microscopic to bridge towards the understanding of the macroscopic.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">Quantum mechanics is at the fundaments of any macroscopic observable. I like understanding how to single out the key components of the microscopic to bridge towards the understanding of the macroscopic.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Dynamical effects in (bio)polymers</title>
+      <link href="http://localhost:4000/posts/2023/05/31/MD.html" rel="alternate" type="text/html" title="Dynamical effects in (bio)polymers" />
+      <published>2023-05-31T00:00:00+02:00</published>
+      <updated>2023-05-31T00:00:00+02:00</updated>
+      <id>http://localhost:4000/posts/2023/05/31/MD</id>
+      <content type="html" xml:base="http://localhost:4000/posts/2023/05/31/MD.html">&lt;p&gt;Polymer dynamics is at the basis of many phenomena of interest from modern science, ranging from biological processes such as protein folding to the systhesis and stabilization of polymer melts for engineering applications. The large length and time scales of such systems, combined with the high level of resolution required, pose a formidable challenge for the molecular modelling community. An additional complication is the presence long range interactions which can be of relatively low magnitude yet essential to control the cooperativity and guide the conformational changes in the system.
+My focus is in particular on how many-body dispersion interactions can affect the dynamics of large polymeric systems. Early work focused on model polymers, showing that MBD yields an improved conformational search. PAPER . We are also working at analyzing the structural phase transitions from a thermodynamical perspective.
+More undergoing work is centered on ultra-heavy-weight-polyethelene and on realistic biopolymers.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">Polymer dynamics is at the basis of many phenomena of interest from modern science, ranging from biological processes such as protein folding to the systhesis and stabilization of polymer melts for engineering applications. The large length and time scales of such systems, combined with the high level of resolution required, pose a formidable challenge for the molecular modelling community. An additional complication is the presence long range interactions which can be of relatively low magnitude yet essential to control the cooperativity and guide the conformational changes in the system. My focus is in particular on how many-body dispersion interactions can affect the dynamics of large polymeric systems. Early work focused on model polymers, showing that MBD yields an improved conformational search. PAPER . We are also working at analyzing the structural phase transitions from a thermodynamical perspective. More undergoing work is centered on ultra-heavy-weight-polyethelene and on realistic biopolymers.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Many-body dispersion interactions</title>
+      <link href="http://localhost:4000/posts/2023/05/21/vdW.html" rel="alternate" type="text/html" title="Many-body dispersion interactions" />
+      <published>2023-05-21T00:00:00+02:00</published>
+      <updated>2023-05-21T00:00:00+02:00</updated>
+      <id>http://localhost:4000/posts/2023/05/21/vdW</id>
+      <content type="html" xml:base="http://localhost:4000/posts/2023/05/21/vdW.html">&lt;p&gt;Van der Waals (vdW) dispersion interactions are obiquitous in atomic and molecular structures and arise from the coupling of instantaneous charge density fluctuations. Such density correlations are systematically neglected by density-based approaches (e.g. DFT), thus they have to be added separately. The most common approximation localizes the fluctuations at atomic nuclei, and assumes them to be dipolar and pairwise, obtaining the sttractive part of the Lennard-Jones potential,
+\begin{equation}
+    E_{PW} = \sum_{i&amp;lt;j} \frac{C_6^{ij}}{R_{ij}^6}\quad\textrm{with}\quad C_6^{ij} = \frac{3}{\pi}\int d\omega \ \alpha^i(\omega)\ \alpha^j(\omega),
+\end{equation}
+where the atomic polarizability, \(\alpha^i\), embodies the local atomic environment. The latter can also be used to tailor the frequency, \(\omega_i\), of a quantum harmonic oscillator to effectively reproduce the electron desity response of each atom. It can be shown &lt;a href=&quot;https://orbilu.uni.lu/bitstream/10993/25084/1/Long-range%20correlation%20energy%20calculated%20from%20coupled%20atomic%20response%20function.pdf&quot;&gt;Ambrosetti2014&lt;/a&gt; that the interaction energy of the atomic oscillators coupled through a dipole-dipole potential accounts nonperturbatively for contributions to the dispersion energy at all many-body contributions at RPA level.
+The resulting forces are typically longer ranged and become highly sensitive to structural details, as described on another post.&lt;/p&gt;
+
+&lt;h4 id=&quot;coarse-graining-strategies-for-mbd&quot;&gt;Coarse-graining strategies for MBD&lt;/h4&gt;
+
+&lt;p&gt;I am currently taking part in the development of coarse-graining strategies to bridge MBD to larger and larger scales. So…stay tuned!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">Van der Waals (vdW) dispersion interactions are obiquitous in atomic and molecular structures and arise from the coupling of instantaneous charge density fluctuations. Such density correlations are systematically neglected by density-based approaches (e.g. DFT), thus they have to be added separately. The most common approximation localizes the fluctuations at atomic nuclei, and assumes them to be dipolar and pairwise, obtaining the sttractive part of the Lennard-Jones potential, \begin{equation} E_{PW} = \sum_{i&amp;lt;j} \frac{C_6^{ij}}{R_{ij}^6}\quad\textrm{with}\quad C_6^{ij} = \frac{3}{\pi}\int d\omega \ \alpha^i(\omega)\ \alpha^j(\omega), \end{equation} where the atomic polarizability, \(\alpha^i\), embodies the local atomic environment. The latter can also be used to tailor the frequency, \(\omega_i\), of a quantum harmonic oscillator to effectively reproduce the electron desity response of each atom. It can be shown Ambrosetti2014 that the interaction energy of the atomic oscillators coupled through a dipole-dipole potential accounts nonperturbatively for contributions to the dispersion energy at all many-body contributions at RPA level. The resulting forces are typically longer ranged and become highly sensitive to structural details, as described on another post.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Spin currents</title>
+      <link href="http://localhost:4000/posts/2023/05/17/transport.html" rel="alternate" type="text/html" title="Spin currents" />
+      <published>2023-05-17T00:00:00+02:00</published>
+      <updated>2023-05-17T00:00:00+02:00</updated>
+      <id>http://localhost:4000/posts/2023/05/17/transport</id>
+      <content type="html" xml:base="http://localhost:4000/posts/2023/05/17/transport.html">&lt;p&gt;The manipulation of atomic magnetic moments has proven instrumental for the realisation of efficient miniaturized (spin-)electronic devices. The generation of spin-polarized currents and their interaction with molecular or multilayered nanostructures is dictated by the rearrangement of the electronic populations when a bias voltage is applied. This can be done through a quantum transport calculation through Green’s function techniques.&lt;/p&gt;
+&lt;h4 style=&quot;text-transform: none;&quot;&gt;Spin selectivity&lt;/h4&gt;
+
+&lt;h4 style=&quot;text-transform: none;&quot;&gt;Spin transfer torques&lt;/h4&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">The manipulation of atomic magnetic moments has proven instrumental for the realisation of efficient miniaturized (spin-)electronic devices. The generation of spin-polarized currents and their interaction with molecular or multilayered nanostructures is dictated by the rearrangement of the electronic populations when a bias voltage is applied. This can be done through a quantum transport calculation through Green’s function techniques. Spin selectivity</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Many-body Green’s functions</title>
+      <link href="http://localhost:4000/posts/2023/05/17/mbpt.html" rel="alternate" type="text/html" title="Many-body Green&apos;s functions" />
+      <published>2023-05-17T00:00:00+02:00</published>
+      <updated>2023-05-17T00:00:00+02:00</updated>
+      <id>http://localhost:4000/posts/2023/05/17/mbpt</id>
+      <content type="html" xml:base="http://localhost:4000/posts/2023/05/17/mbpt.html">&lt;p&gt;A major portion of the electronic structure calculations performed today rely on the solution of the Schroedinger equation in the independent particle picture (e.g. KS-DFT). Nevertheless, several phenomena critically depend on either higher levels of correlation or on thermodynamical conditions that elude the capabilities of DFT approaches. Green’s functions (GFs) are the ideal mathematical tool to extend DFT because:&lt;/p&gt;
+&lt;ol class=&quot;list-text&quot;&gt;
+&lt;li&gt;given the GF of an electronic system any related property can be calculated;&lt;/li&gt;
+&lt;li&gt;a perturbation theory can be naturally defined, and the influence of additional factors (e.g. phonons, higher order correlations, ...) can be readily included given the relevant &lt;b&gt;self-energy&lt;/b&gt;;&lt;/li&gt;
+&lt;li&gt;they can be tailored to include couplings to reservoirs and non-adiabatic interactions with the environment.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 style=&quot;text-transform: none;&quot;&gt;Excitons and optical properties&lt;/h4&gt;
+
+&lt;p&gt;Considering electron-hole pairs is essential to correctly predict the optical response of materials as simple as bulk Si. This can be done by solving the stationary equation of motion for the 2-particle (4-body) GF, known as the Bether-Salpeter equation (BSE). I contributed to the implementation of such methodology in the &lt;a href=&quot;https://arxiv.org/pdf/1901.03175.pdf&quot;&gt;SIMPLE&lt;/a&gt; code, now part of the Quantum Espresso suite of DFT codes.&lt;/p&gt;
+&lt;h4 style=&quot;text-transform: none;&quot;&gt;Quantum transport&lt;/h4&gt;
+&lt;p&gt;The study of how electric currents propagate across nanoscale structures is instrumental for the development of novel electronic components. Quantum transport calulations require the system of interest, also called extended molecule (EM) to be contacted to two (or more) electrodes that serve as particle reservoirs. This makes the overall system infinite, and therefore described through an infinite dimensional Hamiltonian. Green’s functions, however, allow to write the interaction between each contact and the extended molecule through an effective self-energy that only depends on the degrees of freedom of the EM {REF}. The Green’s function for the EM then becomes finite, therefore treatable.
+&lt;b&gt;COMPLETE&lt;/b&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">A major portion of the electronic structure calculations performed today rely on the solution of the Schroedinger equation in the independent particle picture (e.g. KS-DFT). Nevertheless, several phenomena critically depend on either higher levels of correlation or on thermodynamical conditions that elude the capabilities of DFT approaches. Green’s functions (GFs) are the ideal mathematical tool to extend DFT because: given the GF of an electronic system any related property can be calculated; a perturbation theory can be naturally defined, and the influence of additional factors (e.g. phonons, higher order correlations, ...) can be readily included given the relevant self-energy; they can be tailored to include couplings to reservoirs and non-adiabatic interactions with the environment.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Atomistic spin dynamics</title>
+      <link href="http://localhost:4000/posts/2014/07/18/project-1.html" rel="alternate" type="text/html" title="Atomistic spin dynamics" />
+      <published>2014-07-18T00:00:00+02:00</published>
+      <updated>2014-07-18T00:00:00+02:00</updated>
+      <id>http://localhost:4000/posts/2014/07/18/project-1</id>
+      <content type="html" xml:base="http://localhost:4000/posts/2014/07/18/project-1.html">&lt;p&gt;Magnetic properties serve as the foundation for various cutting-edge technologies, encompassing a wide range from sensors to memory storage devices. At the nanoscale, the arrangement and characteristics of atomic species have a profound impact on the overall dynamics of magnetization. Atomistic spin dynamics (ASD) employs Heisenberg-like Hamiltonians defined upon parameters tailored to reproduce the magnetic properties of a given material. The latter can be estimated with first principles methods such as DFT, effectively enabling to bridge quantum mechanical information to lengths up to tens of nanometers.&lt;/p&gt;
+
+&lt;h4 style=&quot;text-transform: none;&quot;&gt;Current-driven spin dynamics&lt;/h4&gt;
+&lt;p&gt;The ASD Hamiltonian can be extended to include the interaction between spins and external drivings, such as spin-polarized currents. Quantum transport calculations can then be used to estimate effective torques acting on atomic spins, therefore completing a multi-scale picture of current-driven spin dynamics. Extensive details on the theory and applications of such framework be found &lt;a href=&quot;http://www.tara.tcd.ie/handle/2262/91664&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 style=&quot;text-transform: none;&quot;&gt;Longitudinal spin fluctuations&lt;/h4&gt;
+&lt;p&gt;Although most materials can be represented through an Heisenberg Hamiltonian, in many cases the need of many parameters can be a strong deterrent. For example, magnetic moments at Pt sites in L1&lt;sub&gt;0&lt;/sub&gt;FePt is heavily dependent on the orientation of moments at Fe sites. This can be solved rigorously by introducing higher order in the magnetic anisotropy parameter, which can be computationally expensive. To overcome this complication we extended the ASD model to accomodate for dynamical spin length variations. HOW IT WORKS&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Main collaborators:&lt;/strong&gt; Dr. Matthew Ellis (University of Sheffield)&lt;/p&gt;
+
+&lt;h5 style=&quot;text-transform: none;&quot;&gt;References&lt;/h5&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">Magnetic properties serve as the foundation for various cutting-edge technologies, encompassing a wide range from sensors to memory storage devices. At the nanoscale, the arrangement and characteristics of atomic species have a profound impact on the overall dynamics of magnetization. Atomistic spin dynamics (ASD) employs Heisenberg-like Hamiltonians defined upon parameters tailored to reproduce the magnetic properties of a given material. The latter can be estimated with first principles methods such as DFT, effectively enabling to bridge quantum mechanical information to lengths up to tens of nanometers.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

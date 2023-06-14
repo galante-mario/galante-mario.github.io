@@ -13,8 +13,8 @@ title: Short Curriculum Vitae
         </td>
         <td class="cv-entry"> 
             <strong>Postdoctoral researcher at Arizona State University (Az, US)</strong><br> 
-            <i>Workgroup</i> lead by <a href="https://search.asu.edu/profile/1470534">Vladimiro Mujica</a> <br>
-            <i>Research topics:</i> spin transport in molecular systems and CISS effect from first principles
+            <span class="cv-keyword">Workgroup</span> lead by <a href="https://search.asu.edu/profile/1470534" class="cv-link">Vladimiro Mujica</a> <br>
+            <span class="cv-keyword">Research topics:</span> spin transport in molecular systems and CISS effect from first principles
         </td>
     </tr>
     <tr>
@@ -23,8 +23,8 @@ title: Short Curriculum Vitae
         </td>
         <td class="cv-entry"> 
             <b>Postdoctoral researcher at the University of Luxembourg (LU)</b><br>
-            <i>Workgroup:</i> <a href="https://www.tcpunilu.com/">Theoretical Chemical Physics</a> led by Prof. Alexandre Tkatchenko<br>
-            <i>Research topics:</i> many-body dispersions in (bio-) polymers: dynamical effects and coarse-graining strategies 
+            <span class="cv-keyword">Workgroup:</span> <a href="https://www.tcpunilu.com/" class="cv-link">Theoretical Chemical Physics</a> led by Prof. Alexandre Tkatchenko<br>
+            <span class="cv-keyword">Research topics:</span> many-body dispersions in (bio-) polymers: dynamical effects and coarse-graining strategies 
         </td>
     </tr>
 </table>
@@ -40,8 +40,8 @@ title: Short Curriculum Vitae
         </td>
         <td class="cv-entry">
             <b>PhD in theoretical and computational physics at Trinity College Dublin (Dublin, IE) </b><br>
-            <i>Workgroup:</i> <a href="https://www.spincomp.com/">Computational Spintronics Group</a> led by Prof. Stefano Sanvito<br>
-            <i>Research topics:</i> spin dependent quantum transport in magnetic tunnel junctions and atomistic spin dynamics
+            <span class="cv-keyword">Workgroup:</span> <a href="https://www.spincomp.com/" class="cv-link">Computational Spintronics Group</a> led by Prof. Stefano Sanvito<br>
+            <span class="cv-keyword">Research topics:</span> spin dependent quantum transport in magnetic tunnel junctions and atomistic spin dynamics
         </td>
     </tr>
     <tr>
@@ -50,8 +50,8 @@ title: Short Curriculum Vitae
         </td>
         <td class='cv-entry'>
             <b>MSc in theoretical and model physics at Universita' degli studi di Padova (Padova, IT)</b><br>
-            <i>Grade:</i> 110/110 cum laude <br>
-            <i>Final project topic:</i> Implementation of exciton calculation within the Bethe-Salpeter equation in the Quantum Espresso code, supervised by Prof. Paolo Umari
+            <span class="cv-keyword">Grade:</span> 110/110 cum laude <br>
+            <span class="cv-keyword">Final project topic:</span> Implementation of exciton calculation within the Bethe-Salpeter equation in the Quantum Espresso code, supervised by Prof. Paolo Umari
         </td>
     </tr>
     <tr>
@@ -60,8 +60,8 @@ title: Short Curriculum Vitae
         </td>
         <td class='cv-entry'>
             <b>BSc in physics at Universita' degli studi di Padova (Padova, IT)</b><br>
-            <i>Grade:</i> 95/110<br>
-            <i>Final project topic:</i> Analytical study of entanglement in ultra-cold atoms in optical traps, supervised by Prof. Luca Salasnich 
+            <span class="cv-keyword">Grade:</span> 95/110<br>
+            <span class="cv-keyword">Final project topic:</span> Analytical study of entanglement in ultra-cold atoms in optical traps, supervised by Prof. Luca Salasnich 
         </td>
     </tr>
 </table>
@@ -74,7 +74,8 @@ title: Short Curriculum Vitae
             April 2018 - August 2018
         </td>
         <td class='cv-entry'>
-            Matteo Cobelli: MSc project in the Sanvito group (now PhD student therein)
+            Matteo Cobelli: MSc project in the Sanvito group (now PhD student therein)<br>
+            <span class="cv-keyword">Topic:</span>
         </td>
     </tr>
     <tr>
@@ -82,7 +83,8 @@ title: Short Curriculum Vitae
             September 2021 - Present
         </td>
         <td class='cv-entry'>
-            Benedikt Ames: PhD project in the Tkatchenko group
+            Benedikt Ames: PhD project in the Tkatchenko group<br>
+            <span class="cv-keyword">Topic:</span>
         </td>
     </tr>
         <tr>
@@ -156,7 +158,7 @@ title: Short Curriculum Vitae
             visualization softwares
         </td>
         <td class='cv-entry'>
-            vmd, vesta, xcrysden
+            vmd, vesta, xcrysden, pymol
         </td>
     </tr>
 </table>

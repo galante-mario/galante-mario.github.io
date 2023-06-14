@@ -61,6 +61,8 @@ credits: 'Created with Jekyll, adapted from Freelancer template.'
 
 # Build settings
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
 permalink: pretty
 
 #for posts
@@ -69,5 +71,5 @@ defaults:
       path: ""
       type: "posts"
     values:
-      permalink: ""
+      permalink: /posts/:year/:month/:day/:title.html
 

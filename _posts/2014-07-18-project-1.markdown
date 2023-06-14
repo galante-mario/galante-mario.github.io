@@ -13,6 +13,7 @@ The ASD Hamiltonian can be extended to include the interaction between spins and
 <h4 style='text-transform: none;'>Longitudinal spin fluctuations</h4>
 Although most materials can be represented through an Heisenberg Hamiltonian, in many cases the need of many parameters can be a strong deterrent. For example, magnetic moments at Pt sites in L1<sub>0</sub>FePt is heavily dependent on the orientation of moments at Fe sites. This can be solved rigorously by introducing higher order in the magnetic anisotropy parameter, which can be computationally expensive. To overcome this complication we extended the ASD model to accomodate for dynamical spin length variations. HOW IT WORKS
 
+
 **Main collaborators:** Dr. Matthew Ellis (University of Sheffield)
 
 <h5 style='text-transform: none;'>References</h5>

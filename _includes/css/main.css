@@ -23,7 +23,6 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
 }
 
 h1,
@@ -32,7 +31,6 @@ h3,
 h4,
 h5,
 h6 {
-    text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
@@ -150,9 +148,9 @@ header .intro-text .skills {
 }
 
 .navbar {
-    text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+    font-size: 20px;
 }
 
 .navbar a:focus {
@@ -498,7 +496,7 @@ footer .footer-below {
 }
 
 .main{
-    padding: 0px 240px 20px 240px;
+    padding: 0% 20% 2.5% 20%;
     background-color: rgb(248, 248, 248);
 }
 
@@ -535,7 +533,7 @@ td {
 
 .cv-date{
     width: 20%;
-    color: rgb(145, 174, 184);
+    color: rgb(8, 107, 6);
     font-size: 18px;
 }
 
@@ -563,4 +561,19 @@ td {
 .list-text li{
     font-size: 20px;
     margin-bottom: 1em;
+}
+
+.link-pdf {
+    color: #b41623;
+}
+.link-doi {
+    color: #4080bf;
+}
+
+.cv-keyword{
+    color: #2e6398;
+    font-style: italic;
+}
+.cv-link{
+    color:#790f18;
 }
