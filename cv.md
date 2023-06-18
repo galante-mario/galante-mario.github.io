@@ -75,7 +75,7 @@ title: Short Curriculum Vitae
         </td>
         <td class='cv-entry'>
             Matteo Cobelli: MSc project in the Sanvito group (now PhD student therein)<br>
-            <span class="cv-keyword">Topic:</span>
+            <span class="cv-keyword">Topic:</span> electromigration forces in fluid GeTe from first principles quantum transport calculations
         </td>
     </tr>
     <tr>
@@ -84,7 +84,7 @@ title: Short Curriculum Vitae
         </td>
         <td class='cv-entry'>
             Benedikt Ames: PhD project in the Tkatchenko group<br>
-            <span class="cv-keyword">Topic:</span>
+            <span class="cv-keyword">Topic:</span> the influence of many-body dispersion in the structural phase transitions of model polymers through thermodynamical signatures 
         </td>
     </tr>
         <tr>
@@ -92,7 +92,8 @@ title: Short Curriculum Vitae
             December 2021 - Present
         </td>
         <td class='cv-entry'>
-            Ian Sosa: PhD project in the Tkatchenko group
+            Ian Sosa: PhD project in the Tkatchenko group<br>
+            <span class="cv-keyword">Topic:</span> development of a continuum model of many-body dispersion forces for engineering applications
         </td>
     </tr>
 </table>
@@ -113,7 +114,7 @@ title: Short Curriculum Vitae
             September 2016 - April 2018
         </td>
         <td class='cv-entry'>
-            Tutor: mathematics(DETAILS) for BSc at the University of Luxembourg
+            Tutor: frontal teaching and assessement  for linear algebra and theory of computation for BSc in Science at Trinity College Dublin
         </td>   
     </tr>
         <tr>
@@ -121,7 +122,7 @@ title: Short Curriculum Vitae
             January 2016 - April 2018
         </td>
         <td class='cv-entry'>
-            Physics laboratory assistant: mathematics(DETAILS) for BSc at the University of Luxembourg
+            Physics laboratory assistant for BSc in Physics at Trinity College Dublin
         </td>   
     </tr>
 </table>
@@ -165,11 +166,13 @@ title: Short Curriculum Vitae
 
 <h3 style='text-transform: none;'>Active collaborations </h3>
 
-<ul style="line-height: 2; margin-left: 75px;font-size:24;">
+<ul style="line-height: 2; margin-left: 75px;font-size:26;">
 <li> Prof. Alessandro Lunghi (Trinity College Dublin, IE) </li>
 <li> Dr. Matthew Ellis (Sheffield University) </li>
-<li> Dr. Andreas SURNAME (Saarland University) </li>
-<li> Dr. Leonardo Medrano Sandonas (University of Luxembourg) </li>
+<li> Dr. Andreas Buchheit (Saarland University) </li>
+<li> Dr. Matteo Gori, Benedikt Ames, Ian Sosa, Dr. Leonardo Medrano Sandonas, Szabolcs Goger (Tkatchenko group, University of Luxembourg) </li>
+<li> Dr. Jakub Lengiewicz, Zhaoxiang Shen (Bordas group, University of Luxembourg)</li>
+<li> Dr. Vasco Cavina (Esposito group, University of Luxembourg) </li>
 <li> Dr. Oliver Unke (Google Research) </li>
-<li> Dr. Vasco Cavina (University of Luxembourg) </li>
+<li> Prof. Louis Bouchard (UCLA) </li>
 </ul>

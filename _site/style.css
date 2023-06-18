@@ -576,11 +576,19 @@ td {
 .link-doi {
     color: #4080bf;
 }
-
+.link-info {
+    color: rgb(8, 107, 6);
+}
 .cv-keyword{
     color: #2e6398;
     font-style: italic;
 }
 .cv-link{
     color:#790f18;
+}
+
+.post-section{
+    color: #234a86;
+    text-indent: 20px;
+    margin-bottom: 1em;
 }
