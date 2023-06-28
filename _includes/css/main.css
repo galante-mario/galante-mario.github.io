@@ -365,6 +365,7 @@ footer h3 {
 
 footer .footer-above {
     position: relative;
+    width: 100%;
     padding-top: 50px;
     z-index: 300;
     background-color: #{{ site.color.secondary }};
@@ -377,6 +378,7 @@ footer .footer-col {
 
 footer .footer-below {
     position: relative;
+    width:100%;
     padding: 25px 0;
     z-index: 300;
     background-color: #{{ site.color.secondary-dark }};
