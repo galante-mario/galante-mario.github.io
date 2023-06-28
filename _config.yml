@@ -44,12 +44,12 @@ social:
     url: https://twitter.com/mgalantephys
   - title: linkedin
     url: https://www.linkedin.com/in/mario-galante-b95667153
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: google
+    url: https://scholar.google.com/citations?user=nzSve8QAAAAJ&hl=en
+  - title: researchgate
+    url: https://www.researchgate.net/profile/Mario-Galante
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/galante-mario
 
 # Postal address (add as many lines as necessary)
 address:
@@ -61,6 +61,8 @@ credits: 'Created with Jekyll, adapted from Freelancer template.'
 
 # Build settings
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
 permalink: pretty
 
 #for posts
@@ -69,5 +71,5 @@ defaults:
       path: ""
       type: "posts"
     values:
-      permalink: ""
+      permalink: /posts/:year/:month/:day/:title.html
 
