@@ -111,6 +111,14 @@ title: Short Curriculum Vitae
     </tr>
     <tr>
          <td class='cv-date'>
+            September 2017
+        </td>
+        <td class='cv-entry'>
+	    School of Physics nominee for TCP Postgraduate Teaching awards 2017
+        </td>   
+    </tr>
+    <tr>
+         <td class='cv-date'>
             September 2016 - April 2018
         </td>
         <td class='cv-entry'>
@@ -170,7 +178,7 @@ title: Short Curriculum Vitae
 <li> Prof. Alessandro Lunghi (Trinity College Dublin, IE) </li>
 <li> Dr. Matthew Ellis (Sheffield University) </li>
 <li> Dr. Andreas Buchheit (Saarland University) </li>
-<li> Dr. Matteo Gori, Benedikt Ames, Ian Sosa, Dr. Leonardo Medrano Sandonas, Szabolcs Goger (Tkatchenko group, University of Luxembourg) </li>
+<li> Dr. Matteo Gori, Benedikt Ames, Ian Sosa, Dr. Leonardo Medrano Sandonas, Szabolcs Goger, Ariadni Boziki (Tkatchenko group, University of Luxembourg) </li>
 <li> Dr. Jakub Lengiewicz, Zhaoxiang Shen (Bordas group, University of Luxembourg)</li>
 <li> Dr. Vasco Cavina (Esposito group, University of Luxembourg) </li>
 <li> Dr. Oliver Unke (Google Research) </li>

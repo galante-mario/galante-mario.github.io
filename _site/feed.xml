@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-07-28T17:38:23-07:00</updated>
+  <updated>2023-07-28T17:39:57-07:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,12 +20,19 @@
   
   
     <entry>
-      <title type="html">Coarse graining in quantum mechanics</title>
-      <link href="http://localhost:4000/posts/2023/05/31/model.html" rel="alternate" type="text/html" title="Coarse graining in quantum mechanics" />
+      <title type="html">Macroscopic quantum mechanics</title>
+      <link href="http://localhost:4000/posts/2023/05/31/model.html" rel="alternate" type="text/html" title="Macroscopic quantum mechanics" />
       <published>2023-05-31T00:00:00-07:00</published>
       <updated>2023-05-31T00:00:00-07:00</updated>
       <id>http://localhost:4000/posts/2023/05/31/model</id>
-      <content type="html" xml:base="http://localhost:4000/posts/2023/05/31/model.html">&lt;p&gt;Quantum mechanical phenomena are at the fundations of any macroscopic observable. The elevated complexity together with the astronomical number of degrees of freedom involved makes impossible its direct application to nanoscale or microscale systems. The investigation of quantum mechanical effects at large length and time scales is one of the most relevant and formidable challenges of modern times. I have a keen interest in methods that allow to single out the key factors of the quantum world that are determinant to control the behaviour of microscopic and macroscopic objects.&lt;/p&gt;
+      <content type="html" xml:base="http://localhost:4000/posts/2023/05/31/model.html">&lt;p&gt;Quantum mechanical phenomena are at the fundations of any macroscopic observable. However, the elevated complexity together with the astronomical number of degrees of freedom involved makes it impractical to directly apply quantum mechanics to mesoscopic systems. Macroscopic quantum mechanics deals with the manifestation of quantum mechanical behavior at larger scales, and is typically enabled by cooperation effects between a large number of particles. 
+My main research interest is identifying  crucial factors governing emergent quantum phenomena to then include them in effective and/or coarse-grained models to bridge the quantum world to larger length and time scales.&lt;/p&gt;
+
+&lt;h3 class=&quot;post-section&quot;&gt;Entanglement in ultra-cold atoms&lt;/h3&gt;
+
+&lt;p&gt;Bose-Einstein condensates embody one of the most typical examples of emergent quantum phenomena. They can be realized in systems as simple as ultra-cold atomic gases confined in laser traps, where atoms can move from one potential well to another through quantum tunnelling. The entanglement between the wells then creates quantum states that can be considered as a real-life concretizaation of the Schroedinger-cat experiment.&lt;/p&gt;
+
+&lt;p style=&quot;text-indent: 15px;&quot;&gt;&lt;b&gt;Further reading:&lt;/b&gt; &lt;a href=&quot;https://arxiv.org/pdf/1410.5321.pdf&quot; class=&quot;link-info&quot;&gt;Double well traps&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 class=&quot;post-section&quot;&gt;Optical spectra&lt;/h3&gt;
 
@@ -39,7 +46,9 @@
 &lt;p style=&quot;text-indent: 15px;&quot;&gt;&lt;b&gt;Further reading:&lt;/b&gt; &lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.214434&quot; class=&quot;link-info&quot;&gt;longitudinal spin fluctuations&lt;/a&gt;, &lt;a href=&quot;http://www.tara.tcd.ie/handle/2262/91664&quot; class=&quot;link-info&quot;&gt;current-driven spin dynamics&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 class=&quot;post-section&quot;&gt;Van der Waals dispersion and dynamical effects&lt;/h3&gt;
-&lt;p&gt;Van der Waals dispersion interactions provide a relatively small energetic contribution, yet can be essential to guide the global dynamics of nanoscale systems. However, such effects become relevant only for systems of 60+ atoms, and their importance for biological systems made of ~10k atoms is of troublesome determination given the high number of degrees of freedom and the consequent high computatioanl cost. I am involved in a project that aims for a continuum description of MBD interactions for polymers, which should be able to shed light on the influence of MBD in polymer melts.&lt;/p&gt;</content>
+&lt;p&gt;Van der Waals dispersion interactions provide a relatively small energetic contribution, yet can be essential to guide the global dynamics of nanoscale systems. However, such effects become relevant only for systems of 60+ atoms, and their importance for biological systems made of ~10k atoms is of troublesome determination given the high number of degrees of freedom and the consequent high computatioanl cost. I am involved in a project that aims for a continuum description of MBD interactions for polymers, which should be able to shed light on the influence of MBD in polymer melts.&lt;/p&gt;
+&lt;p style=&quot;text-indent: 15px;&quot;&gt;&lt;b&gt;Further reading:&lt;/b&gt; &lt;a href=&quot;https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.L012028&quot; class=&quot;link-info&quot;&gt;structure formation in model polymers&lt;/a&gt;
+&lt;/p&gt;</content>
 
       
       
@@ -58,7 +67,7 @@
       
 
       
-        <summary type="html">Quantum mechanical phenomena are at the fundations of any macroscopic observable. The elevated complexity together with the astronomical number of degrees of freedom involved makes impossible its direct application to nanoscale or microscale systems. The investigation of quantum mechanical effects at large length and time scales is one of the most relevant and formidable challenges of modern times. I have a keen interest in methods that allow to single out the key factors of the quantum world that are determinant to control the behaviour of microscopic and macroscopic objects.</summary>
+        <summary type="html">Quantum mechanical phenomena are at the fundations of any macroscopic observable. However, the elevated complexity together with the astronomical number of degrees of freedom involved makes it impractical to directly apply quantum mechanics to mesoscopic systems. Macroscopic quantum mechanics deals with the manifestation of quantum mechanical behavior at larger scales, and is typically enabled by cooperation effects between a large number of particles. My main research interest is identifying crucial factors governing emergent quantum phenomena to then include them in effective and/or coarse-grained models to bridge the quantum world to larger length and time scales.</summary>
       
 
       
@@ -202,16 +211,12 @@ COMPLETE&lt;/p&gt;</content>
 &lt;li&gt;a perturbation theory can be naturally defined, and the influence of additional factors (e.g. phonons, higher order correlations, ...) can be readily included given the relevant &lt;b&gt;self-energy&lt;/b&gt;;&lt;/li&gt;
 &lt;li&gt;they can be tailored to include couplings to reservoirs and non-adiabatic interactions with the environment.&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;h4 style=&quot;text-transform: none;&quot;&gt;Excitons and optical properties&lt;/h4&gt;
+&lt;h3 class=&quot;post-section&quot;&gt;Excitons and optical properties&lt;/h3&gt;
 
 &lt;p&gt;Considering electron-hole pairs is essential to correctly predict the optical response of materials as simple as bulk Si. This can be done by solving the stationary equation of motion for the 2-particle (4-body) GF, known as the Bether-Salpeter equation (BSE). I contributed to the implementation of such methodology in the &lt;a href=&quot;https://arxiv.org/pdf/1901.03175.pdf&quot;&gt;SIMPLE&lt;/a&gt; code, now part of the Quantum Espresso suite of DFT codes.&lt;/p&gt;
-&lt;h4 style=&quot;text-transform: none;&quot;&gt;Quantum transport&lt;/h4&gt;
-&lt;p&gt;The study of how electric currents propagate across nanoscale structures is instrumental for the development of novel electronic components. Quantum transport calulations require the system of interest, also called extended molecule (EM) to be contacted to two (or more) electrodes that serve as particle reservoirs. This makes the overall system infinite, and therefore described through an infinite dimensional Hamiltonian. Green’s functions, however, allow to write the interaction between each contact and the extended molecule through an effective self-energy that only depends on the degrees of freedom of the EM {REF}. The Green’s function for the EM then becomes finite, therefore treatable.&lt;/p&gt;
 
-&lt;p&gt;nuovo&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;COMPLETE&lt;/b&gt;&lt;/p&gt;</content>
+&lt;h3 class=&quot;post-section&quot;&gt;Quantum transport&lt;/h3&gt;
+&lt;p&gt;The study of how electric currents propagate across nanoscale structures is instrumental for the development of novel electronic components. Quantum transport calulations require the system of interest, also called extended molecule (EM) to be contacted to two (or more) electrodes that serve as particle reservoirs. This makes the overall system infinite, and therefore described through an infinite dimensional Hamiltonian. Green’s functions, however, allow to write the interaction between each contact and the extended molecule through an effective self-energy that only depends on the degrees of freedom of the EM. The Green’s function for the EM then becomes finite, therefore treatable.&lt;/p&gt;</content>
 
       
       
@@ -230,7 +235,7 @@ COMPLETE&lt;/p&gt;</content>
       
 
       
-        <summary type="html">A major portion of the electronic structure calculations performed today rely on the solution of the Schroedinger equation in the independent particle picture (e.g. KS-DFT). Nevertheless, several phenomena critically depend on either higher levels of correlation or on thermodynamical conditions that elude the capabilities of DFT approaches. Green’s functions (GFs) are the ideal mathematical tool to extend DFT because: given the GF of an electronic system any related property can be calculated; a perturbation theory can be naturally defined, and the influence of additional factors (e.g. phonons, higher order correlations, ...) can be readily included given the relevant self-energy; they can be tailored to include couplings to reservoirs and non-adiabatic interactions with the environment.</summary>
+        <summary type="html">A major portion of the electronic structure calculations performed today rely on the solution of the Schroedinger equation in the independent particle picture (e.g. KS-DFT). Nevertheless, several phenomena critically depend on either higher levels of correlation or on thermodynamical conditions that elude the capabilities of DFT approaches. Green’s functions (GFs) are the ideal mathematical tool to extend DFT because: given the GF of an electronic system any related property can be calculated; a perturbation theory can be naturally defined, and the influence of additional factors (e.g. phonons, higher order correlations, ...) can be readily included given the relevant self-energy; they can be tailored to include couplings to reservoirs and non-adiabatic interactions with the environment. Excitons and optical properties</summary>
       
 
       
