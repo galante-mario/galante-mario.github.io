@@ -1,5 +1,5 @@
 ---
-layout: page_debug
+layout: page
 title: Conferences and schools
 ---
 
