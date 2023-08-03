@@ -53,8 +53,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 162a Avenue de la Faiencerie, L-1511, Luxembourg (LU)
-  - line: "email: mario.galante@uni.lu"
+  - line: School of Molecular Sciences, 551 E University D, 85281, Tempe (Az, USA)
+  - line: "email: mgalant2@asu.edu"
 
 # Credits content
 credits: 'Created with Jekyll, adapted from Freelancer template.'
