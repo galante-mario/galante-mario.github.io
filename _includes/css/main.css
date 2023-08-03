@@ -381,7 +381,7 @@ footer .footer-above {
     padding-top: 50px;
     z-index: 300;
     background-color: #{{ site.color.secondary }};
-    display: flex;
+    text-align: center;
 }
 
 footer .footer-col {
