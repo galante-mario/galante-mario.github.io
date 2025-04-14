@@ -4,6 +4,9 @@ title: Publication list
 ---
 
 <ol reversed class="list">
+<li><b>M. Galante</b>, P. Tarakeshwar, J. L. Palma, T. Rajh, V. Mujica, <i>Residual Charge Dependence of Spin Transport in Chiral Biomolecules</i>, under review in JCP.</li>
+<li>R. I. Sousa, <b>M. Galante</b>, A. Tkatchenko, <i>Power of Many-Body Force: Magnitudes and Angles of Atomic van der Waals Dispersion Forces in Extended Molecular Systems</i>, under review in SMALL. </li>
+<li>T. Georgiou, J. L. Palma, V. Mujica, S. Varela, <b>M. Galante</b>, V. J. Santamaría-García, L. Mboning, R. N. Schwartz, G. Cuniberti, L.-S. Bouchard, <i>Enantioselectivity in NMR enabled by chirality-induced spin selectivity</i>, Nature Communications <b>15</b>(1):7367 (2024). <a href="https://doi.org/10.1038/s41467-024-49966-8" class=link-doi</li>
 <li><b>M. Galante</b>, A. Tkatchenko, <i>Anisotropic van der Waals dispersion forces in polymers: Structural symmetry breaking leads to enhanced conformational search</i>, Physical Review Research <b>5</b>, L012018 (2023). <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.L012028" class="link-doi">DOI</a>  <a href="https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.5.L012028" class="link-pdf">PDF</a></li>
 <li>M. Cobelli, <b>M. Galante</b>, S. Gabardi, S. Sanvito, M. Bernasconi, <i>First-Principles Study of Electromigration in the Metallic Liquid State of GeTe and Sb<sub>2</sub>Te<sub>3</sub> Phase-Change Compounds</i>, The Journal of Physical Chemistry C <b>124</b> (17): 9599-9603 (2020). <a href="https://doi.org/10.1021/acs.jpcc.0c01824" class="link-doi">DOI</a></li>
 <li><b>M. Galante</b>, <i>Multi-scale analysis of current-driven spin dynamics in magnetic tunnel junctions,</i>, PhD thesis at the School of Physics, Trinity College Dublin (February 2020). <a href="http://www.tara.tcd.ie/handle/2262/91664" class="link-pdf">PDF</a></li>
