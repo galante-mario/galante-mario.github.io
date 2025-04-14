@@ -114,7 +114,7 @@ title: Short Curriculum Vitae
             September 2021 - February 2022
         </td>
         <td class='cv-entry'>
-            Frontal teaching: Computational Methods for Physics (4 ECTS) (MCMP-21) for the MSc in Physics at the University of Luxembourg <b>MATERIAL</b>
+            Frontal teaching: Computational Methods for Physics (4 ECTS) (MCMP-21) for the MSc in Physics at the University of Luxembourg
         </td>
     </tr>
     <tr>
