@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Short Curriculum Vitae NEW
+title: Short Curriculum Vitae
 ---
 <div>
 <h3 style='text-transform: none;'> Employment history </h3>
@@ -14,7 +14,7 @@ title: Short Curriculum Vitae NEW
         <td class="cv-entry"> 
             <strong>Postdoctoral researcher at Arizona State University (Az, US)</strong><br> 
             <span class="cv-keyword">Workgroup</span> lead by <a href="https://search.asu.edu/profile/1470534" class="cv-link">Vladimiro Mujica</a> <br>
-            <span class="cv-keyword">Research topics:</span> spin transport in molecular systems and CISS effect from first principles
+            <span class="cv-keyword">Research topics:</span> spin transport in chiral molecules, spin decoherence and relaxation for quantum molecular spins
         </td>
     </tr>
     <tr>
@@ -102,6 +102,14 @@ title: Short Curriculum Vitae NEW
 
 <table>
     <tr>
+	<td class='cv-date'>
+            January 2024 - Present
+        </td>
+        <td class='cv-entry'>
+            Co-instructor: Elementary Physical Chemistry (CHM 341) and Advanced Thermodynamics (CHM 541) at Arizona State University (48 hours of frontal lecture per semester and student evalution)
+        </td>
+    </tr>
+    <tr>
         <td class='cv-date'>
             September 2021 - February 2022
         </td>
@@ -143,7 +151,7 @@ title: Short Curriculum Vitae NEW
             programming
         </td>
         <td class='cv-entry'>
-            C, Fortran, Python (numpy, ase), git
+            C, Fortran, Python (numpy, ase, qutip), git
         </td>
     </tr>
     <tr>
@@ -159,7 +167,7 @@ title: Short Curriculum Vitae NEW
             electronic structure codes
         </td>
         <td class='cv-entry'>
-            Smeagol, Siesta, Aims, DFTB+
+            Smeagol, Siesta, Aims, DFTB+, Gollum, ORCA
         </td>
     </tr>
     <tr>
@@ -167,7 +175,7 @@ title: Short Curriculum Vitae NEW
             visualization softwares
         </td>
         <td class='cv-entry'>
-            vmd, vesta, xcrysden, pymol
+            vmd, vesta, xcrysden, pymol, avogadro
         </td>
     </tr>
 </table>
@@ -175,12 +183,12 @@ title: Short Curriculum Vitae NEW
 <h3 style='text-transform: none;'>Active collaborations </h3>
 
 <ul style="line-height: 2; margin-left: 75px;font-size:26;">
-<li> Prof. Alessandro Lunghi (Trinity College Dublin, IE) </li>
-<li> Dr. Matthew Ellis (Sheffield University) </li>
-<li> Dr. Andreas Buchheit (Saarland University) </li>
-<li> Dr. Matteo Gori, Benedikt Ames, Ian Sosa, Dr. Leonardo Medrano Sandonas, Szabolcs Goger, Ariadni Boziki (Tkatchenko group, University of Luxembourg) </li>
-<li> Dr. Jakub Lengiewicz, Zhaoxiang Shen (Bordas group, University of Luxembourg)</li>
-<li> Dr. Vasco Cavina (Esposito group, University of Luxembourg) </li>
-<li> Dr. Oliver Unke (Google Research) </li>
-<li> Prof. Louis Bouchard (UCLA) </li>
+	<li> Prof. Louis Bouchard (UCLA, Ca, USA) </li>
+	<li> Prof. Julio Palma (The Pennsylvania State University, PA, USA) </li>
+	<li> Prof. Rocco Martinazzo (Universita' degli Studi di Milano Statale, Italy) </li>
+	<li> Prof. Ismael Perez (King's College London, UK) </li>
+	<li> Prof. Alessandro Lunghi (Trinity College Dublin, Ireland) </li>
+	<li> Prof. Matthew Ellis (Sheffield University, UK) </li>
+	<li> Dr. Matteo Gori, Ian Sosa, Szabolcs Goger, (University of Luxembourg, Luxembourg) </li>
+	<li> Dr. Vasco Cavina (Scuola Normale Superiore di Pisa, Italy) </li>
 </ul>
