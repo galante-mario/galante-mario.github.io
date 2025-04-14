@@ -1,7 +1,16 @@
 ---
 layout: page
-title: Conferences and schools
+title: Outreach
 ---
+
+
+<div>
+<h3 style='text-transform: none;'>Invited talks</h3>
+</div>      
+<ul style='list'>
+  <li>Research visit, Universita' degli Studi di Milano (May 2025)</li>
+  <li>Research visit, Scuola Normale di Pisa (May 2025)</li>
+</ul>
 
 <div>
 <h3 style='text-transform: none;'>Organizer</h3>
@@ -11,7 +20,7 @@ title: Conferences and schools
   <li><a href="https://dqml22.github.io/">DQML22</a>: Dynamics, Machine Learning and Quantum effects in Materials Science and Computational Chemistry (Hintertux, Austria; Feb 2022)</li>
 </ul>   
 <div>
-<h3 style='text-transform: none;'>Talks</h3>
+<h3 style='text-transform: none;'>Contributed talks</h3>
 </div>    
 <ul style='list'>
   <li>APS 2023</li>
