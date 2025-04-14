@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Short Curriculum Vitae
+title: Short Curriculum Vitae NEW
 ---
 <div>
 <h3 style='text-transform: none;'> Employment history </h3>
