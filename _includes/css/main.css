@@ -25,6 +25,13 @@ a.active {
     outline: 0;
 }
 
+
+profile-pic {
+    max-width=240px;
+    height:auto;
+}
+
+
 h1,
 h2,
 h3,
